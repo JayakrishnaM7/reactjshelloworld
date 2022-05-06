@@ -1,4 +1,0 @@
-applications:
- - name: reactjshelloworld
-   random-route: true
-   memory: 256M
